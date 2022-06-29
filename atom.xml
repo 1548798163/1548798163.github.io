@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>itsNeko博客开源版</title>
+  <title>王同学的博客</title>
   
   
   <link href="https://1548798163.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://1548798163.github.io/</id>
   
   <author>
-    <name>itsNeko博客开源版</name>
+    <name>Mr wang</name>
     
   </author>
   
